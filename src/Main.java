@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        SecurityUtils.check("Lololo1231231", "Abs123_d2", "Abs123_d2");
     }
 }
